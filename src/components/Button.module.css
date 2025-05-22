@@ -1,0 +1,24 @@
+.button {
+    background-color: #6EE4FF;
+    border-radius: 15px;
+    color: #2C2A36;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding: 0 25px;
+
+}
+
+.disable {
+    background-color: #457686;
+    border-radius: 15px;
+    color: #2C2A36;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    cursor: auto;
+}
