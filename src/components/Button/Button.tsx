@@ -7,7 +7,6 @@ type Props = {
 }
 
 export const Button = (props: Props) => {
-git
     const onClickHandler = () => {
         if (props.callback) {
             props.callback()

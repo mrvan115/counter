@@ -1,0 +1,23 @@
+.input {
+    text-align: center;
+}
+
+.inputTitle {
+    font-family: Inter;
+    font-size: 32px;
+    color: rgb(42, 44, 54);
+margin-right: 60px;
+}
+
+.inputValue {
+    border: 3px solid rgb(42, 44, 54);
+    border-radius: 5px;
+    max-width: 160px;
+
+    background: rgb(255, 255, 255);
+    color: rgb(42, 44, 54);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
